@@ -25,7 +25,7 @@ OBSをインストールしていれば，そのままZOOMやGoogle Meet,Teams�
 ## Windows 版 
 | | |  
 |:--:|:--:|  
-|ポータブル版|[ここからダウンロード](https://github.com/STU-Idichi-Syoya/virtual-suit/releases/tag/v0.1)  
+|ポータブル版|[ここからダウンロード](https://github.com/STU-Idichi-Syoya/virtual-suit/releases/)  
 |インストール版|[現在準備中です]()  
   
 ## Mac版  
